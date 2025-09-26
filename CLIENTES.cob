@@ -1,7 +1,7 @@
       ******************************************************************
       * AUTOR: LEO
-      * DATA:
-      * OBJETIVO:
+      * DATA:25/09/2025
+      * OBJETIVO: Construir um sistema de clientes
       ******************************************************************
 
        IDENTIFICATION DIVISION.
